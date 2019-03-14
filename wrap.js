@@ -30,3 +30,5 @@ function wrap(string, columnWidth) {
 
     return wrappedString;
 }
+
+module.exports = wrap;
